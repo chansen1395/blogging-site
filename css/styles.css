@@ -2,34 +2,39 @@
   color: blue;
   background-color: aqua;
   text-align: center;
+  font-family: cursive;
 }
 
 .blentry {
   background-color: rgb(160, 252, 255);
   color: teal;
+  margin-bottom: 10px;
 }
 
 .blentry2 {
   background-color: rgb(160, 255, 211);
   color: rgb(11, 128, 0);
+  margin-bottom: 10px;
 }
 
 .blentry3 {
   background-color: rgb(169, 160, 255);
   color: rgb(87, 0, 128);
+  margin-bottom: 10px;
 }
 
 .blheader {
   font-variant: small-caps;
+  margin-top: 10px;
 }
 
 .about {
-  font-size: 150%;
+  font-size: 125%;
   font-family: fantasy;
   font-weight: bolder;
   text-align: justify;
   margin-left: 200px;
-  margin-right: 400px;
+  margin-right: 200px;
   background-image: url("https://forward-am.com/wp-content/uploads/2021/01/forward-am-surfboard-header.jpeg");
   background-size: contain;
   background-blend-mode: lighten;
